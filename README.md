@@ -17,9 +17,20 @@ You get a clean, organized text file without manually grouping similar articles.
 ```bash
 git clone https://github.com/GittyCandy/NewsMeUp.git
 pip install -r requirements.txt
-python NewsMeUp.py --export news.csv
 
 (individually run pip install "lxml[html_clean]" if error occurs)
 
 ```
+
+## How to Run?
+
+python NewsMeUp.py --export news.csv
+
+(Adjust the running Script According to your prefference by)
+
+```
+python NewsMeUp.py --help
+
+```
+
 ---
