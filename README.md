@@ -8,7 +8,7 @@ You can add more news channels if you want, but I'm only interested in the ones 
 It automatically clusters your final summaries — meaning it intelligently sorts the news using machine learning techniques.
 You get a clean, organized text file without manually grouping similar articles.
 
-![NewsMeUp Preview Consdole](newsmeupgithub.png)
+![NewsMeUp Preview Console](newsmeupgithubimage.png)
 
 
 ---
