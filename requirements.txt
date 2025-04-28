@@ -1,0 +1,15 @@
+nltk
+argparse
+feedparser
+dateparser
+numpy
+pytz
+requests
+requests_cache
+beautifulsoup4
+langdetect
+newspaper3k
+scikit-learn
+textblob
+vaderSentiment
+lxml[html_clean]
